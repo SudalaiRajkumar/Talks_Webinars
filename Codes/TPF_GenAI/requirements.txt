@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+tiktoken
+jupyter
+notebook
+sentence_transformers
+chromadb

@@ -1,0 +1,323 @@
+Customer Segmentation
+Personalize your collection reach outs
+Every customer is unique. Categorize your customers into segments of high value, long tail and high risk based on your preferences so you can orchestrate unique collection journeys for each segment.
+
+Collection Followup Bot
+Focus on critical invoices while the bot takes care of the rest
+Automate follow up sequences by reaching out your customers at the right time to the right person.
+
+Expected Payment Date
+Orchestrate your follow up actions based on Growfin’s predicted payment date by analyzing past payment behavior.
+
+Capture Customer Responses
+The bot captures any customer responses to its email and assigns it to the respective collection owner.
+
+Control - Auto Stop
+When an invoice is paid or have a promise to pay or is being disputed, configure the bot to pause or stop.
+
+Personalized Actions
+Send personalized emails and have everyone in loop
+Personalize at each step of the sequence who the emails needs to be sent from, what message and who needs to be kept in loop.
+
+Send “from” your email id
+Send follow up emails from your collector's or common email ids.
+
+CC: Sales Rep
+Keep the relevant stakeholder in loop in your follow up emails, automatically.
+
+Personalized messages
+Have personalized email messaging for each step of followup.
+
+Automate prioritized worklist
+Involve your collections team and sales team when needed
+Define your collection strategy to assign tasks to collectors and escalate invoices to sales reps based on the customer segment.
+
+Auto-set collector worklist
+Based on value, status and age of the invoice, involve collectors where necessary.
+
+Save on the time spent in chasing your long tail customers with automated and personalized follow ups.
+Avoid critical payment delays by being proactive with personalized strategies for those customer segments.
+Achieve greater account coverage by automating follow ups at scale.
+Create accountability on collections by auto-escalating invoices to sales reps beyond a threshold.
+
+Streamline collaboration across teams
+Resolve invoice disputes faster by collaborating with other teams and with added context of your AR data
+Streamline customer conversations in one place and capture promise to pays or disputes in context
+Avoid adding another software for the sales team to use by letting them collaborate on AR from where they are, slack or salesforce
+Keep other teams in loop like sales, customer success and billing at will into your collection follow up sequence
+
+Dispute & Escalation Management
+Collaborate and resolve
+Growfin CRM allows you to not only capture promise-to-pay (PTPs), escalations, disputes and write-offs but also collaborate with other team members and resolve them in an intuitive manner.
+
+Dispute management
+Track invoice disputes as tickets and assign it to stakeholders to have clear accountability and faster resolution.
+
+Growfin Escalation = Salesforce Case
+Finance can escalate invoices or create disputes from Growfin as cases in Salesforce for the sales rep to resolve.
+
+@mention your colleagues
+Simply @mention your colleagues in the disputes or other activity threads to drop a comment tagging them.
+
+Collaborate with context
+Having the relevant data where collaboration happens seals the right context into interactions.
+
+Collaborate from Slack or SFDC
+Collaborate from where you are
+Finance, sales or customer success can now collaborate from their favorite tools to collect efficiently and seamlessly.
+
+Get Notified
+Get to know immediately in SFDC or through slack bots when your customer makes a payment or goes delinquent.
+
+Chat from Slack
+Collaborate on invoices, disputes or tasks with context seamlessly from Slack.
+
+Collaborate from SFDC
+Collaborate from growfin’s dashboard within SFDC account’s page in context.
+
+Inbox
+Customer responses captured in Growfin’s inbox
+Any responses to your collection emails are captured within Growfin and the team has access to those emails from Growfin’s inbox. Act & respond from one place.
+
+Automated collaboration
+Loop in billing, sales and customer success teams
+Automated follow up sequences in Growfin can help you set up your collaboration on an autopilot. Provision specific milestones in your follow up sequence when the Collections Bot needs to loop in billing, sales or customer success teams in the follow up emails.
+
+Real-time collections tracking
+Get real-time visibility into the status spent in chasing your long tail customers with automated and personalized follow ups
+Avoid AR being black box for sales team by providing a real-time dashboard within Salesforce
+Don’t lose track of promise-to-pays, escalations and disputes on invoices in spreadsheet notes, emails and slack messages
+Eliminate manual work in managing spreadsheet reports and reconciling data across systems and stakeholders.
+
+AR Snapshot
+Bird’s eye visibility into the health of your AR
+Know where your collection process stands today both at a 30000 ft view and at a 30 ft view.
+
+Track Promise-to-Pays
+Look at accounts that have a promise to pay for the month.
+
+Monitor Bad Debts
+Monitor and provision bad debts upfront.
+
+AR Aging Dashboard
+Replace your tracker spreadsheet to real-time dynamic AR dashboard
+No more checking your spreadsheet notes & your inbox for contacted date before you follow up. Have all the information in one place.
+
+Understand when to follow up
+Growfin automatically tracks when you last followed up and what is the status of payment.
+
+Health score
+Highlights the risk of collecting cash from a customer based on the past payment behavior for you to strategize collections.
+
+Prioritize Accounts
+Prioritize accounts that you want to focus on for the week based on the aging, balance & health score of each customer.
+
+Filter Views - Slice & dice
+Segment your accounts by risk, region, business unit etc. and save them to easily accessible views.
+
+Salesforce AR Dashboard
+Collection is no more a black box for Sales teams
+No need to ask the finance team for outstanding invoices or payment status. Get all the AR information about your customer inside Salesforce.
+
+Track from where you are
+Like how Growfin helps finance teams track AR, Growfin dashboard inside Salesforce helps sales team to track AR from where they are.
+
+Context in sync
+All collection notes or collection activities can be added inside Salesforce which get recorded in Growfin for tracking.
+
+Collector’s Dashboard
+Be on top of collection activities & work list
+Start your day with the prioritized worklist on tasks to complete, issues to resolve & payments to collect.
+
+Assigned to me
+Know how much you have collected in total and the balance that remains at a glance.
+
+Track your progress
+Track your progress on how much you have collected in total and the balance that remains at a glance.
+
+Get Notified
+Know immediately when a customer responds or makes a payment
+
+Critical & Flagged invoices
+Look at flagged invoices that require attention. Know when an invoice becomes critical.
+
+Customer view
+Avoid pulling customer and invoice data from different systems
+Have all your customer information and activities in one place required to perform a collection activity from contact information to internal PoC to invoice PDFs.
+
+Customer Statement
+Have quick access to customer’s statement and easy access Invoice PDFs.
+
+Audit trail
+Bad debt recovery? Have an audit trail of all the collection activities with the customer in one place to report.
+
+Perform Actions in Bulk
+Send bulk follow up emails or record promise to pays or disputes based on response, set tasks or escalations.
+
+Drive real-time visibility and predictability
+Accurately forecast cash inflow with real insights on customers expected pay dates and payments statuses.
+Measure team’s collection performance by tracking collection activities and performance reports.
+Measure improvement in your collection performance with more accurate and advances metrics like ADP and CEI.
+Don’t just measure; act upon your insights from the dashboard
+
+Snapshot AR Dashboard
+Run through your numbers with a fine tooth comb
+Get to know your overall AR snapshot at an organization level or at an entity level or at a BU or region level.
+
+Key Metrics
+Have a view on a rolling basis of your key cash flow metrics - Outstanding, Collected, DSO & Aging buckets.
+
+Know where your cash is stuck
+How much of your AR balance is pending, paid or stuck in dispute & drill down.
+
+Top Debtors
+See the top debtors and how much money they owe you.
+
+Collection Funnel
+Know how many customers you followed up, how many received & either paid or replied.
+
+Are your emails getting delivered?
+Growfin tracks all your email deliveries to help you understand if your customer’s contact is missing or stale.
+
+Analytics
+Predictable Cash Inflow
+Get trends on sales, outstanding and cash collected MoM. Growfin understands the past payment behavior of every customers and trends to predict cash inflow for a month.
+
+Sales vs Collected
+Get insights on each months cohort of sales vs how much got collected.
+
+Collection Performance Metrics
+Growfin measures average delay in payment and collection effectiveness index which are true  representation of the collection performance
+
+Team’s Performance
+Know how your collections team has been performing against their target and balance, also see activities they performed.
+
+AR Aging Report
+Want to know your AR aging as of last month?
+Growfin allows you to download AR aging reports to share, with historical state on status of AR balance and collection as of that date.
+
+About Growfin
+Prioritize based on predicted Health Score of each customer, which is in turn based on the payment behavior.
+Designed to handle all levels of invoice volume.
+Collection Strategies in Growfin lets you handle personalized follow ups.
+Collections CRM lets you track all conversations at a single place.
+Dispute-handling capabilities are built into Growfin.
+Built-in collaboration capabilities make it easy to work together - communication and work happen on the same platform
+Advanced collection reports are available in Growfin, which includes the AR Aging report.
+Growfin calculates Expected Pay Date using multiple signals like past payment history and current status of a receivable (promise-to-pay or a dispute) to forecast and predict cash inflow.
+Advanced collection reports are available in Growfin, which includes the AR Aging report.
+
+What is Growfin?
+Accounts receivable software purpose-built for streamlining and automating your receivables process across teams, collaboratively.
+Growfin is an AI/ML-powered AR Automation Platform to help you collect efficiently and streamline your invoice-to-cash workflow.
+Automate your AR process and manage all your collection activities with a single platform. Growfin helps you bring down your DSO by at least 20% and realize ROI with increased productivity and working capital savings.
+
+Growfin for CFOs and Directors of Finance
+Growfin is your strategic cash flow partner
+Get the high-level visibility you need into your collections process. Accelerate your cash inflow and predict your future cash flows better.
+
+
+Accelerate your cash inflow and maintain a healthy working capital
+
+
+Cut down costs; drive working capital and productivity savings
+
+
+Get real-time visibility into the health of your collections process
+
+
+Bring predictability into your AR process; forecast better
+
+Real-time view for accurate decision-making
+Know where your cash flow is blocked
+Look up a list of your top debtors and how much they owe you. See where your collection funnel is blocked.
+Forecast better
+Predict cash inflows
+
+
+Growfin for Controllers
+More predictable collections with a higher efficiency
+
+Real-time visibility into the finer details of your receivables process
+
+
+Know where your cash is stuck; move beyond AR Aging
+
+
+No more manual reporting; personalized automation at scale
+
+The big picture and the finer details
+See your top debtors
+Know where your AR stands today
+Bring predictability into your cash inflow; Growfin lets you capture promise-to-pay, escalations and disputes intuitively.
+Flag invoices
+Predict better
+
+Growfin for AR Managers
+A better way to manage collections and your team
+
+Make your collections process proactive; no more chasing accounts closer or after the due date
+
+
+Proactively measure the collection team's performance; get visibility into the team's activities
+
+
+Answer to all your 'how-many' questions—how many invoices are stuck? How many invoices have open promise-to-pays?
+
+
+Understand the whys behind the delays. Does an account have cash flow issues, or are there unanswered questions, disputes, or have they given a promise-to-pay?
+
+
+No more back and forths between various stakeholders; customers, CSMs and AR teams can collaborate via a single platform
+
+Flag invoices
+Segment and strategize
+Measure and act, at the same time
+Report up
+A consolidated view of your AR
+Look up key metrics to understand the health of the AR process.
+
+Growfin for Collections Teams
+Less manual work, better collections
+
+Avoid manual follow ups and automate collections at scale; improve productivity
+
+
+Get real-time visibility into collections
+
+
+Drive up your collections efficiency with personalized emails
+
+
+Streamline all collaborations into one place; no more back and forths on Slack and email
+
+
+Collections CRM to see all the details of your customers at one place
+
+More strategy, less execution
+Automate follow up sequences
+Collect, proactively
+Better email analytics
+Track critical accounts
+One platform for all teams
+Collaborate and collect — loop in customer-facing teams with a couple of clicks. Make them a part of automated collection sequences you set up.
+
+
+Growfin for CSMs, AEs and AMs
+Collaborate, from wherever you work
+
+Complete payment visibility; no more chasing your finance team for invoices and statuses
+
+
+Track status of escalated invoices in real time; stay on top of those that require their attention — invoices that have not been paid for or have been escalated
+
+
+90% of your time is spent on Gmail, Slack and Salesforce. Growfin hooks in all the three platforms
+
+Use Growfin, from within Salesforce
+Stay updated
+Track payments
+Real-time visibility
+One platform for all teams
+
+
